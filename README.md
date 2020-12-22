@@ -15,6 +15,7 @@ A Simple and Easily Explandable Discord Bot Template Made with the [DBD.js NPM P
 
 ## How to run:
 - I reccomend using Danbot Hosting as they are free and easy to use. Simply go to their [server](https://discord.com/invite/92HBc2Z) and check out the getting started channel!
+- Simply running `index.js` in a node js enviorment will run the bot
 
 ## Code Support:
 - DBD.js has their own [discord server](https://discord.gg/bRzSDjRrYs) with support channels that you can ask for any help related to the package itself!
