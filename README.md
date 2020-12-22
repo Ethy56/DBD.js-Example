@@ -1,3 +1,4 @@
+[logo](https://images-ext-1.discordapp.net/external/2mBuSr1fHi0bYK5lXeRhowv_lo2kLnVcRaF8JM5LKgs/https/cdn.discordapp.com/avatars/746401637329010779/027e54e21fb2048df5db9a1e5552716e.webp)
 # DBD.js-Example
 A Simple and Easily Explandable Discord Bot Made with the [DBD.js NPM Package](https://www.npmjs.com/package/dbd.js).
 
