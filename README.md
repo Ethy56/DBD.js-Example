@@ -15,4 +15,7 @@ A Simple and Easily Explandable Discord Bot Made with the [DBD.js NPM Package](h
 ## How to run:
 - I reccomend using Danbot Hosting as they are free and easy to use. Simply go to their [server](https://discord.com/invite/92HBc2Z) and check out the getting started channel!
 
+## Code Support:
+- DBD.js has their own [discord server](https://discord.gg/bRzSDjRrYs) with support channels that you can ask for any help related to the package itself!
+
 This will be updated with more additions in the future!
