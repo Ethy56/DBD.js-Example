@@ -1,6 +1,6 @@
 {
-	"token": "Nzg4NTc2Nzk0MDIyMTE3NDA4.X9lhXg.rijvWEf-T1_AjArFnXUzcY-RTTk",
-	"prefix": ".",
-	"owner": "363812216845369374",
-	"defaultcolor": "00fffff"
+	"token": "INSERT_BOT_TOKEN_HERE",
+	"prefix": "INSERT_BOT_PREFIX_HERE",
+	"owner": "INSERT_BOT_OWNER_ID_HERE",
+	"defaultcolor": "INSERT_HEX_COLOR_HERE"
 }
