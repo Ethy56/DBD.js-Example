@@ -1,6 +1,5 @@
 # DBD.js-Example
-A Simple and Easily Explandable Discord Bot Made with the DBD.js NPM Package.
-
+A Simple and Easily Explandable Discord Bot Made with the [DBD.js NPM Package](https://www.npmjs.com/package/dbd.js).
 
 ## What you need:
 - User ID [How do I get an User ID?](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID)
