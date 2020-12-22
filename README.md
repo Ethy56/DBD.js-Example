@@ -1,6 +1,6 @@
 ![logo](https://images-ext-1.discordapp.net/external/2mBuSr1fHi0bYK5lXeRhowv_lo2kLnVcRaF8JM5LKgs/https/cdn.discordapp.com/avatars/746401637329010779/027e54e21fb2048df5db9a1e5552716e.webp)
 # DBD.js-Example
-A Simple and Easily Explandable Discord Bot Made with the [DBD.js NPM Package](https://www.npmjs.com/package/dbd.js).
+A Simple and Easily Explandable Discord Bot Template Made with the [DBD.js NPM Package](https://www.npmjs.com/package/dbd.js).
 
 ## What you need:
 - User ID [How do I get an User ID?](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID)
